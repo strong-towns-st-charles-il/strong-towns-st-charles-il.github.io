@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   We seek an urban development that is financially strong and resilient.
   We advocate for the city of St. Charles to be safe, livable, and inviting.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stongtowns-stcharles.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: placeholder
 # github_username:  jekyll
 
