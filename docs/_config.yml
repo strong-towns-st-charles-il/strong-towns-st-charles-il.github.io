@@ -1,0 +1,47 @@
+# site settings
+title: Strong Towns Local Conversations
+subtitle: St. Charles, IL
+email: info@strongtowns-stcharles.org
+description: >- # this means to ignore newlines until "baseurl:"
+  We seek an urban development that is financially strong and resilient.
+  We advocate for the city of St. Charles to be safe, livable, and inviting.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://strongtowns-stcharles.org # the base hostname & protocol for your site
+author:
+# street_address: 1234 Somewhere Road
+city: St. Charles
+state: IL
+zip_code: 60174
+country: United States of America
+# phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/strong-towns-st-charles-il
+  GitLab:
+  Google-Plus:
+  Instagram:
+  LinkedIn:
+  Twitter: https://twitter.com/stiofanomathuna
+  Facebook:
+  Slack:
+  Discord: https://discord.gg/z3TUFZhbRd
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
