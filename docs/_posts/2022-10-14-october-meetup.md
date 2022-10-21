@@ -3,7 +3,7 @@ layout: page
 title:  "October Meetup"
 description: Join our first meetup!
 image: assets/images/fox-build.png
-categories: meetup
+categories: blog
 ---
 
 # Strong Towns St. Charles October Meetup
